@@ -1,7 +1,7 @@
 {
-	"name": "fmentor-four-card-flex",
+	"name": "fmentor-four-card-js-procedural",
 	"version": "1.0.0",
-	"description": "four card feature section with display flex",
+	"description": "four card feature section using js procedural",
 	"main": "index.js",
 	"scripts": {
 		"dev": "sass --watch scss/main.scss css/main.css",
@@ -10,14 +10,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/al3xback/fmentor-four-card-flex.git"
+		"url": "git+https://github.com/al3xback/fmentor-four-card-js-procedural.git"
 	},
 	"author": "alex <al3xback@gmail.com>",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/al3xback/fmentor-four-card-flex/issues"
+		"url": "https://github.com/al3xback/fmentor-four-card-js-procedural/issues"
 	},
-	"homepage": "https://github.com/al3xback/fmentor-four-card-flex#readme",
+	"homepage": "https://github.com/al3xback/fmentor-four-card-js-procedural#readme",
 	"devDependencies": {
 		"prettier": "^2.8.8",
 		"sass": "^1.62.1"
