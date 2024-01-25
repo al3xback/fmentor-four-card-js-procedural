@@ -13,10 +13,10 @@ const createSectionEl = () => {
 	const cardsSummarySubtitleEl = document.createElement('p');
 	cardsSummarySubtitleEl.className = 'cards-summary__subtitle';
 
-	const sectionHeadSubtitleTextEl = document.createElement('strong');
-	sectionHeadSubtitleTextEl.textContent = 'Powered by Technology';
+	const cardsSummarySubtitleTextEl = document.createElement('strong');
+	cardsSummarySubtitleTextEl.textContent = 'Powered by Technology';
 
-	cardsSummarySubtitleEl.appendChild(sectionHeadSubtitleTextEl);
+	cardsSummarySubtitleEl.appendChild(cardsSummarySubtitleTextEl);
 
 	const cardsSummaryDescEl = document.createElement('p');
 	cardsSummaryDescEl.className = 'cards-summary__desc';
